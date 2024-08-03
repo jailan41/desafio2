@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  background-color: brown;
+  border: solid rgb(155, 147, 163);
+  padding: 20px;
+  margin: 10px;
+}
+
+ol {
+  border: solid;
+  background-color: blueviolet;
+}/*# sourceMappingURL=style.css.map */
