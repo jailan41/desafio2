@@ -9,7 +9,25 @@ h1 {
   margin: 10px;
 }
 
-ol {
+.caixa1 {
+  background-color: aqua;
   border: solid;
-  background-color: blueviolet;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.caixa2 {
+  background-color: aquamarine;
+  border: solid;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.desafio {
+  background-color: rgb(47, 151, 47);
+  width: 600px;
+  height: 600px;
+  display: inline-block;
 }/*# sourceMappingURL=style.css.map */
